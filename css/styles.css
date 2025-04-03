@@ -569,7 +569,38 @@ a {
   left: 16px;
   stroke: #2E2F42;
 }
+
+.user-text{
+  border: 1px solid rgba(46, 47, 66, 0.4);
+  background-color: transparent;
+  border-radius: 4px;
+  width: 100%;
+  height: 120px;
+  padding: 8px 16px;
+}
+.user-text::placeholder{
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.16667;
+  letter-spacing: 0.04em;
+  color: rgba(46, 47, 66, 0.4);
+  
+}
+
 .modal-input-section{
   position: relative;
   margin-bottom: 8px;
+}
+.modal-check:checked{
+  border: 1px dashed #9747ff;
+    border-radius: 5px;
+    width: 54px;
+    height: 90px;
+}
+
+.terms-link{
+  line-height: 1.33333;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #4D5AE5;
 }
