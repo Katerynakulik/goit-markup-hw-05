@@ -730,7 +730,7 @@ a {
   cursor: pointer;
 }
 .input-check{
-  display: flex;
+  display: initial;
 }
 .custom-checkbox{
   display: inline-flex;
