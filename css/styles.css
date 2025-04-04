@@ -707,6 +707,9 @@ a {
   position: relative;
   margin-bottom: 8px;
 }
+.text-area{
+  margin-bottom: 16px;
+}
 
 .modal-input-section .text-area{}
 
