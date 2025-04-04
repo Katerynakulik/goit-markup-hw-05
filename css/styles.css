@@ -729,7 +729,9 @@ a {
   align-items: center;
   cursor: pointer;
 }
-
+.input-check{
+  display: flex;
+}
 .custom-checkbox{
   display: inline-flex;
   justify-content: center;
