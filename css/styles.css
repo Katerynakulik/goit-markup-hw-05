@@ -600,8 +600,8 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  top: 24;
-  right: 24;
+  top: 24px;
+  right: 24px;
   border-radius: 50%;
   width: 24px;
   height: 24px;
@@ -771,5 +771,6 @@ a {
   padding: 16px 32px;
   width: 169px;
   height: 56px;
+  margin: 0 auto;
   
 }
