@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-one page, with css
+fully complieted web-page with form
